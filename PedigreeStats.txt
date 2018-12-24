@@ -1,0 +1,28 @@
+max - 2.42
+min - 0.078
+avg - 0.4718
+median - 0.3725
+3Q - 0.62625
+1Q - 0.24375
+
+
+
+Pedigree function values:
+
+w1 = 1.25 - Both diag before 50
+w2 = 0.63 - M diag a50 F diag b50
+w3 = 0.70 - M diag b50 F diag a50
+w4 = 0.47 - Both diag after 50
+w5 = 0.18 - M diag a50
+w6 = 0.15 - F diag a50
+w7 = 0.30 - M diag b50
+w8 = 0.25 - F diag b50
+w9 = 0.08 - Both never diag
+
+
+
+Test data: 
+13	104	72	0	0	31.2	0.465	38 - 31.8%
+2	104	85	35	76.3	25	0.1	45 - 18.51%
+5	250	100	70	45	40	0.7	50 - 93.6%
+
